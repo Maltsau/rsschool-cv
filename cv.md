@@ -18,9 +18,15 @@
 
 ## Experience
 
-### \* Design engineer (constructor) _oct. 2005 – oct. 2007_ “Gomel Plant “Communalnik”, Gomel
+- ### Design engineer (constructor)
 
-### \* Well survey engineer, lead engineer, head of geophysical party _oct. 2007 – nov. 2022_ “Production Association “Belorusneft”, Department of Field Geophysical Research, Rechitsa
+  #### _oct. 2005 – oct. 2007_
+
+  #### “Gomel Plant “Communalnik”, Gomel
+
+- ### Well survey engineer, lead engineer, head of geophysical party
+  #### _oct. 2007 – nov. 2022_
+  #### “Production Association “Belorusneft”, Department of Field Geophysical Research, Rechitsa
 
 ## Education
 
@@ -42,9 +48,9 @@
 
 ## Languges
 
-- Russian – native
-- Belarusian – fluent
-- English - intermediate
+- ### Russian – native
+- ### Belarusian – fluent
+- ### English - intermediate
 
 ## Participations
 
