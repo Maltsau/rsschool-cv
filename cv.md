@@ -1,3 +1,5 @@
+![avatar](/assets/images/avatar.png)
+
 # Dzmitry Maltsau
 
 ## JS Developer
@@ -30,17 +32,17 @@
 
 ## Education
 
-### **Higher education**
+- ### **Higher education**
 
-### Gomel State Technical University _jun. 2005_
+#### **Gomel State Technical University** _jun. 2005_
 
 #### Qualification – mining engineer
 
 #### Spatiality – development and operation of oil and gas fields
 
-### **Additional education**
+- ### **Additional education**
 
-#### JavaScript course, White Lynx Center, Gomel _aug. 2021_
+#### **JavaScript course, White Lynx Center**, Gomel _aug. 2021_
 
 ## TechStack
 
