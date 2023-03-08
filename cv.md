@@ -4,8 +4,6 @@
 
 ## JS Developer
 
-### Hello!
-
 ### I'm 39 years old. Graduated from Gomel State Technical University in 2005. I used to work in oil industry and now I want to learn a new specialty - JavaScript developer.
 
 ### Birth date: 28.04.1983
@@ -15,6 +13,8 @@
 ### Phone: +375447617586
 
 ### E-mail: emeraldwhistler.dm@gmail.com
+
+### Discord: Dzmitry Maltsau (@Maltsau)
 
 ### GitHub: https://github.com/Maltsau
 
@@ -101,5 +101,5 @@
                         map((number, index)=> number*10**index).reverse().
                         map((item)=> ROMAN_RULES[item]).join('');
   return romanNumber;
-}
+};
 ```
