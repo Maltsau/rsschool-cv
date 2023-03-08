@@ -1,1 +1,1 @@
-https://Maltsau.github.io/rsschool-cv/cv
+https://Maltsau.github.io/rsschool-cv/
